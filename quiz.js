@@ -17,9 +17,9 @@ const questions = [
         answer: '2'
     },
     {
-        question: 'Who wrote "To Kill a Mockingbird"?',
+        question: 'Who wrote "Harry Potter',
         options: ['1. Harper Lee', '2. J.K. Rowling', '3. Ernest Hemingway', '4. Mark Twain'],
-        answer: '1'
+        answer: '2'
     }
 ];
 
